@@ -1,3 +1,4 @@
 #README
 
-Coucou Cosmos
+
+C'est nice ce projet!
